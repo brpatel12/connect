@@ -7,12 +7,12 @@
 5. [Running NextGen Connect in Java 9 or greater](#java9)
 6. [Java Licensing](#java-licensing)
 7. [License](#license)
-
+test
 ------------
 
 <a name="useful-links"></a>
 ## 1. Useful Links
-- [Downloads](https://github.com/nextgenhealthcare/connect/releases) 
+- [Downloads](https://github.com/nextgenhealthcare/connect/releases)
 - [User Guide](https://www.nextgen.com/-/media/Files/nextgen-connect/nextgen-connect-38-user-guide.pdf)
 - [Wiki](https://www.mirthcorp.com/community/wiki/display/mirth/Home)
   - [System requirements](https://www.mirthcorp.com/community/wiki/display/mirth/System+Requirements)
@@ -22,7 +22,7 @@
   - [Examples and Tutorials](https://www.mirthcorp.com/community/wiki/display/mirth/Examples+and+Tutorials)
   - [FHIR Extension Guide](https://www.mirthcorp.com/community/wiki/display/mirth/User+Guide)
 - [Forums](http://www.mirthcorp.com/community/forums/)
-- [Slack Channel](https://mirthconnect.slack.com/) 
+- [Slack Channel](https://mirthconnect.slack.com/)
   - [Slack Registration](https://mirthconnect.herokuapp.com)
 - [Issue Tracker (JIRA)](http://www.mirthcorp.com/community/issues)
 
@@ -77,7 +77,7 @@ After the installation, the NextGen Connect directory layout will look as follow
 ## 4. Starting NextGen Connect
 Once NextGen Connect has been installed, there are several ways to connect to launch the NextGen Connect Administrator. On a Windows installation, there is a NextGen Connect Administrator item in the Start Menu which launches the application directly.
 
-If the option is not available, you can connect to the NextGen Connect Administrator launch page which by default should be available at `http://[server address]:8080` (i.e. `http://localhost:8080`). It is recommended to use the Administrator Launcher to start the Administrator, which can be downloaded by clicking on the Download Administrator Launcher button. Clicking the Launch NextGen Connect Administrator button will download the Java Web Start file for your server. Opening the file with the Administrator Launcher connects you to the server, which will be listening on `https://[server address]:8443` (i.e. `https://localhost:8443`). 
+If the option is not available, you can connect to the NextGen Connect Administrator launch page which by default should be available at `http://[server address]:8080` (i.e. `http://localhost:8080`). It is recommended to use the Administrator Launcher to start the Administrator, which can be downloaded by clicking on the Download Administrator Launcher button. Clicking the Launch NextGen Connect Administrator button will download the Java Web Start file for your server. Opening the file with the Administrator Launcher connects you to the server, which will be listening on `https://[server address]:8443` (i.e. `https://localhost:8443`).
 
 If running a new installation, the default username and password for the login screen is admin and admin. This should be changed immediately for security purposes.
 
